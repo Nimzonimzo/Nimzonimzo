@@ -23,7 +23,7 @@ I'm Thomas FERRANDIS, a Data Intelligence Engineering student at ISEP Paris, wit
 
 - **XiangQi Project**
   - Personal Project
-  - Start Date: January 1, 2024
+  - Start Date: January , 2024
   - [Repo Link](https://github.com/Nimzonimzo/XiangqiGame)
 
 ## How to Reach Me 📫
