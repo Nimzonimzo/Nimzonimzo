@@ -24,11 +24,13 @@ I'm Thomas FERRANDIS, a Data Intelligence Engineering student at ISEP Paris, wit
 - **XiangQi Project**
   - Personal Project
   - Start Date: January , 2024
+  - Completed Date: February , 2024
   - [Repo Link](https://github.com/Nimzonimzo/XiangqiGame)
 
 - **House Price Prediction**
   - Personal Project
   - Start Date: February , 2024
+  - Completed Date: March , 2024
   - [Repo Link](https://github.com/Nimzonimzo/House-Price-Prediction)
 
 ## How to Reach Me 📫
