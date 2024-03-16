@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Thomas FERRANDIS, a Data Intelligence Engineering student at ISEP Paris, with a semester spent at Seoultech. 
+I'm Thomas FERRANDIS, a Data Intelligence Engineering from ISEP Paris, with a semester spent at Seoultech. 
 
 
 ## GitHub Stats 📊
