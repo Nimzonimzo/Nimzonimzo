@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Thomas FERRANDIS, a Data Intelligence Engineering from ISEP Paris, with a semester spent at Seoultech. 
+I'm Thomas FERRANDIS, a Data Intelligence Engineering from ISEP Paris, with a semester spent at Seoultech.
 
 
 ## GitHub Stats 📊
@@ -28,13 +28,13 @@ I'm Thomas FERRANDIS, a Data Intelligence Engineering from ISEP Paris, with a se
   - [Repo Link](https://github.com/Nimzonimzo/XiangqiGame)
 
 - **House Price Prediction**
-  - Personal Project
+  - Personal Python Project
   - Start Date: February , 2024
   - Completed Date: March , 2024
   - [Repo Link](https://github.com/Nimzonimzo/House-Price-Prediction)
  
 - **High_Level_Athlete_Analysis**
-  - Personal Project
+  - Personal Python Project
   - Start Date: March , 2024
   - [Repo Link](https://github.com/Nimzonimzo/High_Level_Athlete_Analysis)
 
