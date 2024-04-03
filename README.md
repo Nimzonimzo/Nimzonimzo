@@ -36,6 +36,7 @@ I'm Thomas FERRANDIS, a Data Intelligence Engineering from ISEP Paris, with a se
 - **High_Level_Athlete_Analysis**
   - Personal Project (Python)
   - Start Date: March , 2024
+  - Completed Date: April , 2024
   - [Repo Link](https://github.com/Nimzonimzo/High_Level_Athlete_Analysis)
 
 ## How to Reach Me 📫
